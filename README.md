@@ -1,2 +1,3 @@
 # superedit
-my first edit projcet
+my first edit project repo
+made by chandan singh bisht
